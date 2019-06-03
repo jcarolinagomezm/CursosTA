@@ -1,0 +1,14 @@
+{
+  "name": "cursosta",
+  "version": "1.0.0",
+  "description": "Ejercicio para obtener la información de cursos ofertados por educación continua",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carolina Gomez Matiz",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
